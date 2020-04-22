@@ -1,0 +1,24 @@
+GITHUB
+===========================
+cd C:/xampp/htdocs/crud-laravel7-vuejs/SistemaCRUD
+ls
+git init: Inicializar GIT
+git status
+git add .
+git status
+git add README.md
+git commit -m "Descripción breve de los cambios"
+git log: Cambios al proyecto
+git remote add origin https://github.com/JrGregorioHPV/crud-laravel7-vuejs.git
+git push -u origin master
+git remote -v: Muestra los repositorios remotos
+
+JrGregorioHPV
+info@gregoriopineda.com
+JrGH27051988PV
+--------------------------------------------------
+https://github.com/JrGregorioHPV/crud-laravel7-vuejs.git
+JrGregorioHPV/laravel7-vuejs2-crud
+
+laravel7-vuejs2-crud
+CRUD Completo con Laravel 7 y VueJs
